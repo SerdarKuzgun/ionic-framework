@@ -1,54 +1,70 @@
-<p align="center">
-  <a href="#">
-    <img alt="Ionic" src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" width="60" />
-  </a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ionic</title>
+    <style>
+        body {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
 
-<h1 align="center">
-  Ionic
-</h1>
+    <p>
+        <a href="https://ionicframework.com/">
+            <img alt="Ionic" src="https://github.com/ionic-team/ionic-framework/blob/main/.github/assets/logo.png?raw=true" width="60">
+        </a>
+    </p>
 
-<p align="center">
-  Ionic is an open source app development toolkit for building modern, fast, top-quality cross-platform native and Progressive Web Apps from a single codebase with JavaScript and the Web.
-</p>
-<p align="center">
-  Ionic is based on <a href="https://www.webcomponents.org/introduction">Web Components</a>, which enables significant performance, usability, and feature improvements alongside support for popular web frameworks like <a href="https://angular.io/">Angular</a>, <a href="https://reactjs.com/">React</a>, and <a href="https://vuejs.org/">Vue</a>.
+    <h1>Ionic</h1>
 
-</p>
+    <p>
+        Ionic is an open-source app development toolkit for building modern, fast, top-quality cross-platform native 
+        and Progressive Web Apps from a single codebase with JavaScript and the Web.
+    </p>
 
-<p align="center">
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Ionic Framework is released under the MIT license." />
-  </a>
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
-  </a>
-  <a href="https://twitter.com/Ionicframework">
-    <img src="https://img.shields.io/twitter/follow/ionicframework.svg?label=Follow%20@IonicFramework" alt="Follow @IonicFramework">
-  </a>
-  <a href="https://ionic.link/discord">
-    <img src="https://img.shields.io/discord/520266681499779082?color=7289DA&label=%23ionic&logo=discord&logoColor=white" alt="Official Ionic Discord" />
-  </a>
-</p>
+    <p>
+        Ionic is based on <a href="https://www.webcomponents.org/introduction">Web Components</a>, which enables 
+        significant performance, usability, and feature improvements alongside support for popular web frameworks like 
+        <a href="https://angular.io/">Angular</a>, <a href="https://react.dev/">React</a>, and <a href="https://vuejs.org/">Vue</a>.
+    </p>
 
-<h2 align="center">
-  <a href="https://ionicframework.com/docs/intro/cli">Quickstart</a>
-  <span> · </span>
-  <a href="https://ionicframework.com/docs/">
-    Documentation
-  </a>
-  <span> · </span>
-  <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">Contribute</a>
-  <span> · </span>
-  <a href="https://blog.ionicframework.com/">Blog</a>
-  <br />
-  Community:
-  <a href="https://ionic.link/discord">Discord</a>
-  <span> · </span>
-  <a href="https://forum.ionicframework.com/">Forums</a>
-  <span> · </span>
-  <a href="https://twitter.com/Ionicframework">Twitter</a>
-</h2>
+    <p>
+        <a href="https://github.com/ionic-team/ionic-framework/blob/main/LICENSE">
+            <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Ionic Framework is released under the MIT license.">
+        </a>
+        <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">
+            <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!">
+        </a>
+        <a href="https://twitter.com/Ionicframework">
+            <img src="https://img.shields.io/twitter/follow/ionicframework.svg?label=Follow%20@IonicFramework" alt="Follow @IonicFramework">
+        </a>
+        <a href="https://ionic.link/discord">
+            <img src="https://img.shields.io/discord/520266681499779082?color=7289DA&label=%23ionic&logo=discord&logoColor=white" alt="Official Ionic Discord">
+        </a>
+    </p>
+
+    <h2>
+        <a href="https://ionicframework.com/docs/intro/cli">Quickstart</a>
+        <span> · </span>
+        <a href="https://ionicframework.com/docs/">Documentation</a>
+        <span> · </span>
+        <a href="https://github.com/ionic-team/ionic-framework/blob/main/docs/CONTRIBUTING.md">Contribute</a>
+        <span> · </span>
+        <a href="https://blog.ionicframework.com/">Blog</a>
+        <br />
+        Community:
+        <a href="https://ionic.link/discord">Discord</a>
+        <span> · </span>
+        <a href="https://forum.ionicframework.com/">Forums</a>
+        <span> · </span>
+        <a href="https://twitter.com/Ionicframework">Twitter</a>
+    </h2>
+
+</body>
+</html>
 
 ### Packages
 
